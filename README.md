@@ -16,7 +16,7 @@ Data analytics plays a pivotal role in credit card approval by enabling financia
 Python is a versatile programming language with numerous libraries and frameworks tailored for data analysis, including Pandas, NumPy, and Matplotlib. These tools allow data scientists and analysts to:
 
 # Data Preprocessing: Cleanse, transform, and format raw data for analysis.
- Exploratory Data Analysis (EDA): Gain insights into data distributions, correlations, and patterns.
+# Exploratory Data Analysis (EDA): Gain insights into data distributions, correlations, and patterns.
 # Feature Engineering: Create meaningful features from raw data that can improve the accuracy of credit risk models.
 # Data Visualization: Create informative charts and graphs to aid in decision-making and reporting.
 # SQL for Data Management
