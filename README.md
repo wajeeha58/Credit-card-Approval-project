@@ -11,7 +11,7 @@ Credit card approval is a critical process for both financial institutions and c
 
 Data analytics plays a pivotal role in credit card approval by enabling financial institutions to make informed decisions based on historical data and customer profiles. Python and SQL are two of the most commonly used tools for managing, processing, and analyzing the vast amounts of data involved in this process.
 
-#Python for Data Analysis
+# Python for Data Analysis
 
 Python is a versatile programming language with numerous libraries and frameworks tailored for data analysis, including Pandas, NumPy, and Matplotlib. These tools allow data scientists and analysts to:
 
